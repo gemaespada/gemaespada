@@ -15,17 +15,27 @@ Before entering the world of technology, I graduated in **Primary Education with
 <strong>💻 Programming & Databases</strong><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
 <div>
 <strong>🧩 ORM & Software Design</strong><br/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/SOLID_Principles-555555?style=for-the-badge"/>
 </div>
+
 <div>
 <strong>🔧 Version Control & Development Environment</strong><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=zsh&logoColor=black"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
+
 <div>
-<strong>🤖 AI & Workflow Automation</strong><br/>
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<strong>🤖 AI & Intelligent Development</strong><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/NotebookLM-1A73E8?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge&logoColor=white"/>
+</div>
+
+<div>
+<strong>⚙️ Workflow Automation & Integrations</strong><br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
 Hands-on experience with n8n through practical exercises, including:
@@ -33,6 +43,8 @@ Hands-on experience with n8n through practical exercises, including:
 - Google Calendar integrations.
 - Telegram AI agents.
 - Workflow creation and testing.
+
+I've also explored AI-assisted development, AI-powered research, interface prototyping, agent-based workflows, and tool integrations using the Model Context Protocol (MCP).
 
 ## 🎓 Education & Certifications
 
@@ -70,8 +82,8 @@ I'm continuously improving it and working towards expanding my portfolio with ne
 ## 📚 Currently Exploring
 
 - Building practical applications and expanding my programming knowledge.
-- AI-assisted software development.
-- Workflow automation and AI agents.
+- AI-assisted software development and intelligent development workflows.
+- Workflow automation and AI agent integrations.
 - Improving software architecture and code organization.
 - Exploring new technologies within Full Stack development.
 
@@ -80,6 +92,7 @@ I'm continuously improving it and working towards expanding my portfolio with ne
 - Build real-world projects and expand my GitHub portfolio.
 - Strengthen my programming and problem-solving skills.
 - Develop useful, scalable, and well-structured applications.
+- Integrate AI tools into practical development workflows.
 - Keep exploring new technologies and development tools.
 - Grow as a Full Stack Developer.
 
@@ -103,4 +116,5 @@ I'm always open to connecting with other developers, sharing knowledge, and expl
 **Thanks for visiting my profile!** 😊
 
 I'm constantly learning, building, and improving — one step at a time. 🚀
+
 
